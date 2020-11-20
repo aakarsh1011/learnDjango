@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pred",
+				"predict"
+			],
+			[
+				"class",
+				"classification"
+			],
+			[
+				"clas",
+				"classification"
+			],
+			[
+				"news_",
+				"news_lines"
+			],
+			[
+				"new",
+				"news_text"
+			],
+			[
+				"news",
+				"news_lines"
+			],
+			[
+				"M",
+				"Model"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"sys",
+				"system"
+			],
+			[
+				"st",
+				"star_rating"
+			],
+			[
+				"Ama",
+				"AmazonReviewScraperItem"
+			],
+			[
+				"P",
+				"P_name"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"prim",
+				"prime_list"
+			],
+			[
+				"reu",
+				"result"
+			],
+			[
+				"R",
+				"return"
+			],
+			[
+				"ind",
+				"ind_j"
+			],
+			[
+				"in",
+				"ind_i"
+			],
+			[
+				"i",
+				"i_ind"
+			],
+			[
+				"mer",
+				"merge_sort"
+			],
+			[
+				"se",
+				"seq"
+			],
+			[
+				"seq",
+				"sequence"
+			],
+			[
+				"sele",
+				"selection_sort"
+			],
+			[
+				"twi",
+				"twitter_client"
+			],
+			[
+				"Tw",
+				"TwitterClient"
+			],
+			[
+				"twitter",
+				"twitter_client"
+			],
+			[
+				"twee",
+				"tweets"
+			],
+			[
+				"authen",
+				"authenticate_twitter_app"
+			],
+			[
+				"Twit",
+				"TwitterAuthenticater"
+			],
+			[
+				"auth",
+				"authenticate_twitter_app"
+			],
+			[
+				"t",
+				"twitter_authenticater"
+			],
+			[
+				"strea",
+				"stream_tweets"
+			],
+			[
+				"str",
+				"stream"
+			],
+			[
+				"tw",
+				"twitter_streamer"
+			],
+			[
+				"has",
+				"hashtags_list"
+			],
+			[
+				"a",
+				"ACCESS_TOKEN"
+			],
+			[
+				"n_",
+				"n_input"
+			],
+			[
+				"for",
+				"forward"
+			],
+			[
+				"laye",
+				"layer_Dense"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"rena",
+				"rename_file"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"tr",
+				"trust"
+			],
+			[
+				"print",
+				"printTree"
+			],
+			[
+				"pri",
+				"printTree"
+			],
+			[
+				"out",
+				"output_m"
+			],
+			[
+				"biases",
+				"biases_m"
+			],
+			[
+				"weights",
+				"weights_m"
+			],
+			[
+				"score",
+				"score"
+			],
+			[
+				"house",
+				"houses_num"
+			],
+			[
+				"hous",
+				"houses_num"
+			],
+			[
+				"ou",
+				"output2"
+			],
+			[
+				"bias",
+				"bias1"
+			],
+			[
+				"weight",
+				"weights1"
+			],
+			[
+				"d",
+				"downwards"
+			],
+			[
+				"col",
+				"col_name"
+			],
+			[
+				"rem",
+				"remove_col"
+			],
+			[
+				"rep",
+				"rep_col_index"
+			],
+			[
+				"re",
+				"rep_col_index"
+			],
+			[
+				"val",
+				"val_col"
+			],
+			[
+				"im",
+				"img_arr"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"pro",
+				"Prompts"
+			],
+			[
+				"mul",
+				"mul_ip"
+			],
+			[
+				"I",
+				"id\tAttr"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ons",
+				"onseeking\tAttr"
+			],
+			[
+				"H",
+				"H2\tTag"
+			],
+			[
+				"__",
+				"__init__"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: tw",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Django/src/learnDjango/learnDjango/settings.py",
+		"/E/fake_news_ml_service/predict/news/templates/results.html",
+		"/E/fake_news_ml_service/predict/news/templates/base.html",
+		"/E/fake_news_ml_service/.git/COMMIT_EDITMSG",
+		"/E/fake_news_ml_service/predict/news/templates/predict.html",
+		"/E/fake_news_ml_service/predict/news/views.py",
+		"/E/fake_news_ml_service/predict/news/urls.py",
+		"/E/fake_news_ml_service/predict/predict/urls.py",
+		"/E/Django/Django_env/pyvenv.cfg",
+		"/E/fake_news_ml_service/predict/templates/news.html",
+		"/E/fake_news_ml_service/predict/news/templates/index.html",
+		"/E/fake_news_ml_service/predict/news/templates/db.html",
+		"/E/fake_news_ml_service/predict/predict/settings.py",
+		"/E/fake_news_ml_service/backend/server/apps/endpoints/views.py",
+		"/E/fake_news_ml_service/backend/server/manage.py",
+		"/E/fake_news_ml_service/backend/server/apps/endpoints/apps.py",
+		"/E/fake_news_ml_service/backend/server/fake_news/admin.py",
+		"/E/fake_news_ml_service/backend/server/fake_news/apps.py",
+		"/E/fake_news_ml_service/backend/server/server/settings.py",
+		"/E/fake_news_ml_service/backend/server/server/urls.py",
+		"/E/fake_news_ml_service/backend/server/fake_news/models.py",
+		"/E/fake_news_ml_service/backend/server/apps/endpoints/models.py",
+		"/E/Fake_news_project/Kaggle_test.py",
+		"/E/Fake_news_project/Data_acquire.py",
+		"/E/Recommendation_sys/recom_sys.py",
+		"/E/fake_news_detect/.git/COMMIT_EDITMSG",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/main.py",
+		"/E/Fake_news_project/.git/COMMIT_EDITMSG",
+		"/D/illustration/font/scriptna/readme.txt",
+		"/C/Users/ysanj/Desktop/New Text Document.txt",
+		"/E/fake_news_detect/.git/MERGE_MSG",
+		"/E/Recommendation_sys/.git/COMMIT_EDITMSG",
+		"/C/Users/ysanj/Desktop/New Text Document (2).txt",
+		"/E/Recommendation_sys/ml-latest/README.txt",
+		"/D/books/notes/words.txt",
+		"/C/Users/ysanj/Desktop/del.py",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/spiders/AmazonReviews.py",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/items.py",
+		"/D/work/neural network/repos/OIDv4_ToolKit/README.txt",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/requirements.txt",
+		"/D/work/neural network/repos/OIDv4_ToolKit/modules/bounding_boxes.py",
+		"/D/work/neural network/repos/OIDv4_ToolKit/convert_annotations.py",
+		"/D/work/neural network/repos/OIDv4_ToolKit/classes.txt",
+		"/D/work/neural network/repos/OIDv4_ToolKit/requirements.txt",
+		"/D/work/neural network/repos/OIDv4_ToolKit/main.py",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/spiders/items.csv",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/settings.py",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/amazonreviews.txt",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/spiders/amazonreviews.txt",
+		"/D/work/amazon_review_scraper/amazon_review_scraper/readme.txt",
+		"/D/work/amazon_review_scraper/scrapy.cfg",
+		"/C/Users/ysanj/AppData/Local/Temp/Rar$DIa9708.32487/datasetSplit.txt",
+		"/C/Users/ysanj/AppData/Local/Temp/Rar$DIa9708.33373/dictionary.txt",
+		"/C/Users/ysanj/AppData/Local/Temp/Rar$DIa9708.34431/README.txt",
+		"/C/Users/ysanj/AppData/Local/Temp/Rar$DIa9708.28966/datasetSentences.txt",
+		"/D/work/Amazon_review_analysis/requirements.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/process.py",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/main.py",
+		"/D/work/everlytics/renaming.py",
+		"/D/work/everlytics/everlytics.txt",
+		"/D/work/everlytics/commands.txt",
+		"/D/work/layhertz/face-mask-detector/face-mask-detector/train_mask_detector.py",
+		"/D/work/layhertz/mask_detector/mask_detector.py",
+		"/D/work/layhertz/face-mask-detector/face-mask-detector/face_detector/deploy.prototxt",
+		"/D/work/layhertz/face-mask-detector/face-mask-detector/detect_mask_image.py",
+		"/D/work/python/leetcode/Van_eck_seq.py",
+		"/D/work/data structure/merge_sort.py",
+		"/D/work/data structure/prev_num_sum_recursion.py",
+		"/D/work/data structure/quicksort.py",
+		"/D/work/data structure/selection_sort.py",
+		"/D/work/data structure/Sieve_of_eratosthenes.py",
+		"/D/work/python/leetcode/HCF.py",
+		"/D/work/data structure/fabonachi_recur.py",
+		"/D/work/python/leetcode/operators.py",
+		"/D/work/python/leetcode/longest_palindrome.py",
+		"/D/work/python/leetcode/recursion_factorial.py",
+		"/D/work/python/leetcode/ispalindrome.py",
+		"/D/work/python/Python36/practice/reverse_word_order.py",
+		"/D/work/python/leetcode/int_palin.py",
+		"/D/work/python/Python36/practice/divisors.py",
+		"/D/work/python/Intermediate python/argparse_cli.py",
+		"/D/work/python/leetcode/add_two_num.py",
+		"/D/work/python/classes_practice.py",
+		"/D/work/python/Python36/practice/fibonacchi.py",
+		"/D/work/python/Python36/practice/primility-functions.py",
+		"/D/work/python/pr.py",
+		"/D/work/python/hh.py",
+		"/D/work/python/entry_exit.py",
+		"/D/work/python/dictionary_pr.py",
+		"/D/work/data structure/bubble_sort.py",
+		"/D/work/data structure/DSA/insertion_Sorting.py",
+		"/D/work/data structure/Binary tree.py",
+		"/D/work/data structure/createLinkedlist.py",
+		"/D/work/data structure/DLL.py",
+		"/D/work/data structure/merge_sort",
+		"/D/work/data structure/DSA/recursion.py",
+		"/C/Users/ysanj/Desktop/New folder/pointer.c",
+		"/E/Stats with R/Introduction to data.rmd.txt",
+		"/D/work/python/leetcode/reverse_int.py",
+		"/D/work/data structure/Binar tree practice.py",
+		"/D/work/projects/projects/complete/QR code and Datamatrix decoder/Readme.txt",
+		"/D/work/research paper/rethinking generalization summary.txt",
+		"/C/Users/ysanj/Anaconda3/envs/tensorflow/Lib/site-packages/keras_lr_finder/lr_finder.py",
+		"/C/Users/ysanj/Anaconda3/Lib/site-packages/tensorflow_core/python/keras/engine/training.py",
+		"/C/Users/ysanj/Anaconda3/Lib/site-packages/tensorflow_core/python/keras/callbacks.py",
+		"/D/work/projects/spottle.ai/Spottle-EDA-of-COVID19/tweet sentiment analysis and vizulaization/tweet_stream.py",
+		"/C/Users/ysanj/Anaconda3/Lib/site-packages/tweepy/streaming.py",
+		"/D/work/projects/spottle.ai/Spottle-EDA-of-COVID19/tweet sentiment analysis and vizulaization/tweepy_streaming.py",
+		"/D/work/projects/spottle.ai/Spottle-EDA-of-COVID19/tweet sentiment analysis and vizulaization/Access_token.py",
+		"/D/work/projects/spottle.ai/Spottle-EDA-of-COVID19/tweet sentiment analysis and vizulaization/tweet_analysis.py",
+		"/D/work/neural network/From sctratch/p4.py",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1110.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1109.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1100.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/milk/twomilk13.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/milk/twomilk19.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1111.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/milk/twomilk10.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/milk/milk1.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1112.txt",
+		"/D/work/neural network/From sctratch/p3_dot_product.py",
+		"/D/work/projects/spottle.ai/Spottle-EDA-of-COVID19/tweets_corona.txt",
+		"/D/work/projects/Coursera_Capstone/web_scrap.py",
+		"/D/work/data science/tweets_corona.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1078.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1145.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1101.txt",
+		"/D/work/neural network/repos/Yolo-Annotation-Tool-New-/Labels/eggs1000/twoeggs1092.txt"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 104.8,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 282.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "learnDjango.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
