@@ -372,10 +372,7 @@
 	},
 	"expanded_folders":
 	[
-		"/E/Django",
-		"/E/Django/src",
-		"/E/Django/src/learnDjango",
-		"/E/Django/src/learnDjango/learnDjango"
+		"/E/Django"
 	],
 	"file_history":
 	[
@@ -586,7 +583,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "dj.sublime-project",
+	"project": "pro.sublime-project",
 	"replace":
 	{
 		"height": 50.0
